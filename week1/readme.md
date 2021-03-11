@@ -7,4 +7,4 @@
 
 # Write a "Hello world" app
 
-- [Read, Write and Display a video/webcam using OpenCV python](https://github.com/18521383/CE-DESIGN-3T/blob/main/week1/Tuan1.py)
+- [Read, Write and Display a video/webcam using OpenCV python](https://github.com/18521383/CE-DESIGN-3T/blob/main/week1/Code.py)

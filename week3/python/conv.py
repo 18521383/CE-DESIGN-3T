@@ -1,7 +1,7 @@
 # Read the image file.
 from scipy import misc
 import imageio
-data = imageio.imread('DB.jpg')
+data = imageio.imread('hoahong.jpg')
 
 # Make a string with the format you want.
 text = ''

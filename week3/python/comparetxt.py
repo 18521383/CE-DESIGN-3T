@@ -26,4 +26,4 @@ for line in diffList:
 print ('-'*50)
 print ("Comparison results (exact):",)
 result=((counter_line-line_err)/counter_line)*100
-print(round(result,2))
+print(round(result,2),"%")

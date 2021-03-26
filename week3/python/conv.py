@@ -1,7 +1,7 @@
 # Read the image file.
 from scipy import misc
 import imageio
-data = imageio.imread('image.jpg')
+data = imageio.imread('DB.jpg')
 
 # Make a string with the format you want.
 text = ''
@@ -11,5 +11,5 @@ for row in data:
 
 
 # Write the string to a file.
-with open('image.txt', 'w') as f:
+with open('rgb.txt', 'w') as f:
     f.write(text)

@@ -1,7 +1,6 @@
 `timescale 1ns/1ns
 module testbench();
 
-parameter cycle = 50;
 reg Clk;
 reg rst;
 wire [31:0] h;
@@ -25,7 +24,7 @@ begin
   	file_id = $fopen("rgb.txt","w");
 	@(posedge rst);
 	@(posedge Clk);
-	for (i = 0; i<650000; i=i+1) begin
+	for (i = 0; i<1000008; i=i+1) begin
       		@(posedge Clk);
 		if (i >=7) begin
       		$fwrite(file_id,"%h\t",   h);

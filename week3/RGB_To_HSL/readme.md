@@ -2,4 +2,4 @@
 - Thiết kế bộ RGB sang HSL vẫn chưa được tối ưu.
 - Divide chưa thiết kế để tách khỏi bộ fpu tìm được trên google.
 - sourcecode bộ FPU https://opencores.org/websvn/listing?repname=fpu&path=%2Ffpu%2Fbranches%2Frusselmann%2Fverilog%2F#path_fpu_branches_russelmann_verilog_
-[BT1.pdf](https://github.com/18521383/CE-DESIGN-3T/files/6211188/BT1.pdf)
+![BT1](https://user-images.githubusercontent.com/80138353/112620541-42ded500-8e5b-11eb-81c1-6ec49d71d0e6.jpg)

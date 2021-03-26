@@ -1,4 +1,5 @@
 # Run The Python File
+  - Input: hoahong.jpg, DB.jpg
   - Convert Image (.jpn, .png,...) to binary text file: using file conv.py
   -  Convert RGB (text file) to HSL: using file rgb_to_hsl.py
   -  Using file 32bitFP_to_float.py to convert output from HDL (floating point 32bit) to float
